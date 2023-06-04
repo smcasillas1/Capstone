@@ -24,11 +24,12 @@ in different parts of the state.
 ## Select/Prepare Data Sets
 
   - Crime data source selected: Ohio's Office of Criminal Justice Services:
-      1. Website Source Data Files: <https://dpsoibrspext.azurewebsites.net/?handler=Search>
-      2. Actual .csv data files:
+      1. Website for Crime Data Files: <https://dpsoibrspext.azurewebsites.net/?handler=Search>
           - OIBRS_Crime_Data_2020
           - OIBRS_Crime_Data_2021
           - OIBRS_Crime_Data_2022
+      3. Ohio's City and County Mapping Source: <https://www.whereig.com/usa/zipcodes/ohio.html>
+
 
 ## Process Data
 
