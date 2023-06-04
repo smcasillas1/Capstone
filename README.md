@@ -8,7 +8,7 @@ how safe/unsafe an area has been when deciding to move to a desired city/state.
 
 ## Purpose
 
-My intent with this project is to finally conduct an analysis on the types of crime that for an entire state. This project can 
+My intent with this project is to conduct an analysis on the types of crime that has occurred for an entire state. This project can 
 be beneficial to anyone who would like to understand crimes in Ohio - current/future Ohio residents and/or government officials 
 who want to understand how crime has trended from 2020-2022 in Ohio. The latter audience can also use this information to understand 
 what types of laws, resources, and/or police training/staffing may be needed to deter/reduce the types of crimes that have occurred
