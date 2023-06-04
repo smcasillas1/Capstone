@@ -21,7 +21,7 @@ in different parts of the state.
       3. What is the year-over-year trend of crime throughout the buckeye state?
       4. Are there any surprises from the crime datasets?
 
-## Prepare/Select Data Sets
+## Select/Prepare Data Sets
 
 ## Process Data
 
