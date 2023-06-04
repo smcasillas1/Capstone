@@ -15,10 +15,10 @@ what types of laws, resources, and/or police training/staffing may be needed to 
 
   - Capstone questions I want to answer:
 
-    1. What are the major types of crime that occurs in Ohio state by City/County?
-    2. Are there certain types of crimes that are more common in small, medium, and large cities?
-    3. What is the year-over-year trend of crime throughout the buckeye state?
-    4. Are there any surprises from the crime datasets?
+      1. What are the major types of crime that occurs in Ohio state by City/County?
+      2. Are there certain types of crimes that are more common in small, medium, and large cities?
+      3. What is the year-over-year trend of crime throughout the buckeye state?
+      4. Are there any surprises from the crime datasets?
 
 ## Prepare/Select Data Sets
 
