@@ -23,8 +23,8 @@ in different parts of the state.
 
 ## Select/Prepare Data Sets
 
-  - Crime data source selected: Ohio's Office of Criminal Justice Services:
-      1. Website for Crime Data Files: <https://dpsoibrspext.azurewebsites.net/?handler=Search>
+  - Selected Data sets:
+      1.  Ohio's Office of Criminal Justice Services Website for Crime Data Files: <https://dpsoibrspext.azurewebsites.net/?handler=Search>
           - OIBRS_Crime_Data_2020
           - OIBRS_Crime_Data_2021
           - OIBRS_Crime_Data_2022
