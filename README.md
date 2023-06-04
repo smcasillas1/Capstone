@@ -12,8 +12,8 @@ My intent with this project is to finally conduct an analysis on the types of cr
 be beneficial to anyone who would like to understand crimes in Ohio - current/future Ohio residents and/or State/Local Government 
 officials who want to understand how crime has trended from 2020-2022. The latter audience can also use this information to understand 
 what types of laws, resources, and/or police training/staffing may be needed to deter/reduce the types of crimes that have occurred.
-
-  - Questions I would like to answer with my analysis:
+<br>
+Questions I would like to answer with my analysis:
 
       1. What are the major types of crime that occurs in Ohio state by City/County?
       2. Are there certain types of crimes that are more common in small, medium, and large cities?
