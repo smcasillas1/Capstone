@@ -23,14 +23,15 @@ in different parts of the state.
 
 ## Prepare Data Sets
 
-  - In this step I will need to determine what data is needed, identify where this data is located, and decide how I will safeguard source files and maintain the integrity within the data. At which I've decided to use crime data provided by the criminal justice department listed below. Also, I will search the internet for a listing of Ohio's Cities and respective Counties.
+  - In this step I will need to determine what data is needed, identify where this data is located, and decide how I will maintain the data integrity. At which I've decided to use crime data provided by the criminal justice department listed below. Also, I will search the internet for a listing of Ohio's Cities and respective Counties.
       1.  Ohio's Office of Criminal Justice Services Website for Crime Data Files: <https://dpsoibrspext.azurewebsites.net/?handler=Search>
           - OIBRS_Crime_Data_2020
           - OIBRS_Crime_Data_2021
           - OIBRS_Crime_Data_2022
       2. Ohio's County number and County Names: <https://www.whereig.com/usa/states/ohio/counties>
       3. Ohio's City and County Mapping Source: <https://www.whereig.com/usa/zipcodes/ohio.html>
-
+   
+- In order to maintain the integrity of my data, I will do some data cleaning in Excel (using Power Query) and Python. Although it's not efficient to clean data in two different programs, I want to be able to showcase my level of understanding of both programs and how it can be utilize to complete this step within the Data Analysis process. Power Query has a feature which records the actions taken on one's dataset and Python's code is reproducible by anyone with the same level of coding experience or more.
 
 ## Process Data
 
