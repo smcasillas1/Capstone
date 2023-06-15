@@ -28,7 +28,7 @@ in different parts of the state.
           - OIBRS_Crime_Data_2020
           - OIBRS_Crime_Data_2021
           - OIBRS_Crime_Data_2022
-      3. Ohio's City and County Mapping Source: <https://www.whereig.com/usa/zipcodes/ohio.html>
+      3. Ohio's City and County Mapping Source: <https://www.whereig.com/usa/states/ohio/counties>
 
 
 ## Process Data
