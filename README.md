@@ -31,7 +31,7 @@ in different parts of the state.
       2. Ohio's County number and County Names: <https://www.whereig.com/usa/states/ohio/counties>
       3. Ohio's City and County Mapping Source: <https://www.whereig.com/usa/zipcodes/ohio.html>
    
-- In order to maintain the integrity of my data, I will do some data cleaning in Excel (using Power Query) and Python. Although it's not efficient to clean data in two different programs, I want to be able to showcase my level of understanding of both programs and how it can be utilize to complete this step within the Data Analysis process. Power Query has a feature which records the actions taken on one's dataset and Python's code is reproducible by anyone with the same level of coding experience or more.
+- In order to maintain the integrity of my data, I will do some data cleaning in Excel (using Power Query) and Python. Although it's not efficient to clean data in two different programs, I want to be able to showcase my level of understanding of both programs and how it can be utilize to complete this step within the Data Analysis process. Power Query has a feature which records the actions taken on one's dataset and Python's code is repeatable/reproducible by anyone with the same level of coding experience or more.
 
 ## Process Data
 
