@@ -43,7 +43,7 @@ in different parts of the state.
      4.  Transposed data into veritical format
      5.  Pivoted all crime types into one column
      6.  Pivoted all crime type count into one column
-     7.  Named/Verified the column titles
+     7.  Named/Verified the column titles appropriately
      8.  Formatted each column to appropriate data type
  
 - Python's Data Cleaning Steps: Webscraping Cities/Counties Websites and Wrangling related data
