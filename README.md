@@ -24,7 +24,7 @@ in different parts of the state.
 ## Prepare Datasets
 
   - In this step I will need to determine what data is needed, identify where this data is located, and decide how I will maintain the data integrity. At which I've decided to use crime data provided by the criminal justice department listed below. Also, I will search the internet for a listing of Ohio's Cities and respective Counties.
-      1.  Ohio's Office of Criminal Justice Services Website for Crime Data Files: <https://dpsoibrspext.azurewebsites.net/?handler=Search>
+      1.  Ohio's Office of Criminal Justice Services (OCJS) Website for Crime Data Files: <https://dpsoibrspext.azurewebsites.net/?handler=Search>
           - OIBRS_Crime_Data_2020
           - OIBRS_Crime_Data_2021
           - OIBRS_Crime_Data_2022
@@ -36,8 +36,11 @@ in different parts of the state.
 ## Process Data
 
 - Excel's Data Cleaning Steps:
-  
-     1.  Ohio's Office of Criminal Justice Services Website
+ 
+     1.  Exported Crime Data from OCJS Website for 2020-2022
+     2.  
+ 
+- Python's Data Cleaning Steps:
 
 ## Data Analysis Process
 
