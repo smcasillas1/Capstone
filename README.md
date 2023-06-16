@@ -35,16 +35,16 @@ in different parts of the state.
 
 ## Process Data
 
-- Excel's Data Cleaning Steps:
+- Excel's Data Cleaning Steps: OCJS Crime datasets cleaning
  
-     1.  Exported Crime Data from OCJS Website for 2020-2022 onto my personal laptop
+     1.  Exported Crime Data from OCJS Website for years 2020-2022 onto my personal laptop
      2.  Appended each crime's year data file together into one file
      3.  Removed blank rows
      4.  Transposed data into veritical format
      5.  Pivoted all crime types into one column
      6.  Pivoted all crime type count into one column
  
-- Python's Data Cleaning Steps:
+- Python's Data Cleaning Steps: Webscraping Cities/Counties Websites and Wrangling related data
 
 ## Data Analysis Process
 
