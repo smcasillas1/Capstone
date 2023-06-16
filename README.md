@@ -35,6 +35,10 @@ in different parts of the state.
 
 ## Process Data
 
+- Excel's Data Cleaning Steps:
+  
+     1.  Ohio's Office of Criminal Justice Services Website
+
 ## Data Analysis Process
 
 ## Share/Visualize Data
