@@ -1,4 +1,4 @@
-# State of Ohio Crime Analysis 2020 - 2022
+# State of Ohio Crime Analysis 2017 - 2022
 
 ## Context
 
@@ -25,9 +25,12 @@ in different parts of the state.
 
   - In this step I will need to determine what data is needed, identify where this data is located, and decide how I will maintain the data integrity. At which I've decided to use crime data provided by the criminal justice department listed below. Also, I will search the internet for a listing of Ohio's Cities and respective Counties.
       1.  Ohio's Office of Criminal Justice Services (OCJS) Website for Crime Data Files: <https://dpsoibrspext.azurewebsites.net/?handler=Search>
-          - OIBRS_Crime_Data_2020
-          - OIBRS_Crime_Data_2021
           - OIBRS_Crime_Data_2022
+          - OIBRS_Crime_Data_2021
+          - OIBRS_Crime_Data_2020
+          - OIBRS_Crime_Data_2019
+          - OIBRS_Crime_Data_2018
+          - OIBRS_Crime_Data_2017
       2. Ohio's County number and County Names: <https://www.whereig.com/usa/states/ohio/counties>
       3. Ohio's City and County Mapping Source: <https://www.whereig.com/usa/zipcodes/ohio.html>
    
@@ -37,7 +40,7 @@ in different parts of the state.
 
 - Excel's Data Cleaning Steps: OCJS Crime datasets cleaning
  
-     1.  Exported Crime Data from OCJS Website for years 2020-2022 onto my personal laptop
+     1.  Exported Crime Data from OCJS Website for years 2017-2022 onto my personal laptop
      2.  Appended each crime's year data file together into one file
      3.  Removed blank rows
      4.  Transposed data into veritical format
