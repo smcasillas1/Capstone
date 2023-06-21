@@ -10,7 +10,7 @@ how safe/unsafe an area has been when deciding to move to a desired city/state.
 
 My intent with this project is to conduct an analysis on the types of crime that has occurred for an entire state. This project can 
 be beneficial to anyone who would like to understand crimes in Ohio - current/future Ohio residents and/or government officials 
-who want to understand how crime has trended from 2020-2022 in Ohio. The latter audience can also use this information to understand 
+who want to understand how crime has trended from 2017-2022 in Ohio. The latter audience can also use this information to understand 
 what types of laws, resources, and/or police training/staffing may be needed to deter/reduce the types of crimes that have occurred
 in different parts of the state.
 
@@ -46,8 +46,8 @@ in different parts of the state.
      4.  Transposed data into veritical format
      5.  Pivoted all crime types into one column
      6.  Pivoted all crime type count into one column
-     7.  Named/Verified the column titles appropriately
-     8.  Formatted each column to appropriate data type
+     7.  Named/Verified each column titles appropriately
+     8.  Formatted each column appropriately
  
 - Python's Data Cleaning Steps: Webscraping Cities/Counties Websites and Wrangling related data
 
