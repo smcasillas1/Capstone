@@ -48,7 +48,7 @@ in different parts of the state.
      7.  Named/Verified each column titles appropriately
      8.  Formatted each column appropriately
 
-- Python's Data Cleaning Steps: Webscraping Cities/Counties Websites and Wrangling data
+- Python's Data Cleaning Steps: Wrangling Cities/Counties via webscraping method
 
      1.  Read HTML text information from Website that contains Ohio City and County Mapping
      2.  Removed Zip Code column since it's out of scope of this project
