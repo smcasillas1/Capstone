@@ -55,7 +55,8 @@ in different parts of the state.
      2.  Created data frame for parsed data
      3.  Removed Zip Code column since it's out of scope of this project
      4.  Added State Name to add Parent level Hiearchy of the Cities and Counties
-     5.  Export content into a .csv
+     5.  Created column city_size based on criteria using FOR LOOP and Conditional Statement**
+     6.  Export content into a .csv
 
 ## Data Analysis Process
 
