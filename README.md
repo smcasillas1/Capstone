@@ -16,7 +16,7 @@ in different parts of the state.
 
   - Questions I would like to answer with my analysis:
 
-      1. What are the major types of crime that occurs in Ohio state by City/County?
+      1. What are the major types of crime that occurs in Ohio by City/County?
       2. Are there certain types of crimes that are more common in small, medium, and large cities?
       3. What is the year-over-year trend of crime throughout Ohio?
       4. Are there any surprises from the crime datasets?
@@ -31,10 +31,9 @@ in different parts of the state.
           - OIBRS_Crime_Data_2019
           - OIBRS_Crime_Data_2018
           - OIBRS_Crime_Data_2017
-      2. Ohio's County number and County Names: <https://www.whereig.com/usa/states/ohio/counties>
-      3. Ohio's City and County Mapping Source: <https://www.whereig.com/usa/zipcodes/ohio.html>
+      2. Ohio's City and County Mapping Source: <https://www.whereig.com/usa/zipcodes/ohio.html](https://www.corragroup.com/ohio-county-lookup.html>
    
-- In order to maintain the integrity of my data, I will do some data cleaning in Excel (using Power Query) and Python. Although it's not efficient to clean data in two different programs, I want to be able to showcase my level of understanding of both programs and how it can be utilize to complete this step within the Data Analysis process. Power Query has a feature which records the actions taken on one's dataset and Python's code is repeatable/reproducible by anyone with the same level of coding experience or more.
+- In order to maintain data integrity, I will do some data cleaning in Excel (using Power Query) and Python. Although it's not efficient to clean data in two different programs, I want to be able to showcase my level of understanding of both programs and how it can be utilize to complete this step within the Data Analysis process. Power Query has a feature which records the actions taken on one's dataset and Python's code is repeatable/reproducible by anyone with the same level of coding experience or more.
 
 ## Process Data
 
@@ -49,10 +48,12 @@ in different parts of the state.
      7.  Named/Verified each column titles appropriately
      8.  Formatted each column appropriately
 
-- Python's Data Cleaning Steps: Webscraping Cities/Counties Websites and Wrangling related data
-  
- 
-- Python's Data Cleaning Steps: Webscraping Cities/Counties Websites and Wrangling related data
+- Python's Data Cleaning Steps: Webscraping Cities/Counties Websites and Wrangling data
+
+     1.  Read HTML text information from Website that contains Ohio City and County Mapping
+     2.  Removed Zip Code column since it's out of scope of this project
+     3.  Added State Name to add Parent level Hiearchy of the Cities and Counties
+     4.  
 
 ## Data Analysis Process
 
