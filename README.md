@@ -53,7 +53,7 @@ in different parts of the state.
      1.  Read HTML text information from Website that contains Ohio City and County Mapping
      2.  Removed Zip Code column since it's out of scope of this project
      3.  Added State Name to add Parent level Hiearchy of the Cities and Counties
-     4.  
+     4.  Export content into a .csv
 
 ## Data Analysis Process
 
