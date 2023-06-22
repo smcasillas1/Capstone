@@ -18,7 +18,7 @@ in different parts of the state.
 
       1. What are the major types of crime that occurs in Ohio by City/County?
       2. Are there certain types of crimes that are more common in small, medium, and large cities?
-           - Size Definition: Small: <100K, Medium: >100K & <400K, Large: >400K
+           - Size Definition (Ohio specific): Small: <100K, Medium: >100K & <400K, Large: >400K
       4. What is the year-over-year trend of crime throughout Ohio?
       5. Are there any surprises from the crime datasets?
 
