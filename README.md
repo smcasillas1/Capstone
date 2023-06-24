@@ -50,8 +50,8 @@ in different parts of the state.
           - Property Crime: includes offenses of burglary, larceny-theft, motor vehicle theft, and arson.
           - Violent Crime: includes offenses of rape, robbery, murder, and aggravated assault
      9.  Removed all trailing spaces with TRIM function
-     10.  Named/Verified each column titles appropriately
-     11.  Formatted each column data type appropriately
+     10. Named/Verified each column titles appropriately
+     11. Formatted each column data type appropriately
 
 - Python's Data Cleaning Steps: Wrangling Cities/Counties via webscraping method
 
