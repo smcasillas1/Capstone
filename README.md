@@ -48,7 +48,7 @@ in different parts of the state.
      6.  Pivoted all crime type count into one column
      7.  Removed Property / Violent Crime have been captured separately in the file already:
           - Property Crime: includes offenses of burglary, larceny-theft, motor vehicle theft, and arson.
-          - Violent Crime: includes offenses of rape, robbery, murder, aggravated assault
+          - Violent Crime: includes offenses of rape, robbery, murder, and aggravated assault
      9.  Removed all trailing spaces with TRIM function
      10.  Named/Verified each column titles appropriately
      11.  Formatted each column data type appropriately
