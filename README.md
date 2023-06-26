@@ -58,10 +58,21 @@ in different parts of the state.
      1.  Read HTML text information (City/Zip Code/County) from Website
      2.  Created data frame for parsed data
      3.  Removed Zip Code attribute since it's out of scope of this project
-     4.  Added state name to dataset
-     5.  Corrected the County names for 11 cities which had multiple Counties mapped
-     6.  Removed null rows for blank Cities
-     7.  Created criteria for City size attribute:
+     4.  Added State name to dataset
+     5.  Corrected the County names for 11 cities which had multiple Counties mapped to them:
+          - Chagrin Falls (Cuyahoga)
+          - Cincinnati(Hamilton)
+          - Danville(Knox)
+          - Dayton(Montgomery)
+          - Fairfax(Hamilton)
+          - Laurelville(Hocking)
+          - Loveland(Hamilton)
+          - Northwood(Wood)
+          - Riverside(Montgomery)
+          - Dillonvale(Jefferson)
+          - Lima(Allen)
+     7.  Removed null rows for blank Cities
+     8.  Created criteria for City size attribute:
           - Small: < 100K
           - Medium: > 100K & < 400K
           - Large: > 400K
@@ -70,7 +81,7 @@ in different parts of the state.
 
 ## Data Analysis Process
 
-## Share Insights / Visualize Data
+## Visualize Data / Share Insights
 
 
 https://www.figma.com/file/oAWaQIYqk64otVDit2BzyF/Capstone-Figma---Sam?node-id=0%3A1&t=rEcEIa6S8iJeYw5q-1
