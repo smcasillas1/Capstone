@@ -60,7 +60,7 @@ in different parts of the state.
      3.  Removed Zip Code attribute since it's out of scope of this project
      4.  Added State name to dataset
      5.  Corrected the County names for 11 cities which had multiple Counties mapped to them:
-          - Chagrin Falls (Cuyahoga)
+          - Chagrin Falls(Cuyahoga)
           - Cincinnati(Hamilton)
           - Danville(Knox)
           - Dayton(Montgomery)
