@@ -41,27 +41,27 @@ in different parts of the state.
 - OCJS Crime datasets: Excel Data Cleaning and Merging Datasets
  
      1.  Exported Crime Data from OCJS Website for years 2017-2022 onto my personal laptop
-     2.  Appended each crime's year data file together into one file
+     2.  Appended each year's crime data file to one another
      3.  Removed blank rows
      4.  Transposed data into veritical format
-     5.  Pivoted all crime types into one column
-     6.  Pivoted all crime type count into one column
-     7.  Removed Property / Violent Crime record counts since it's individual offenses have been captured separately in the file already based on FBI definitions:
+     5.  Pivoted all Crime Type into one column
+     6.  Removed Property / Violent Crime record counts since their individual offenses have been captured within the file already:
           - Property Crime: includes offenses of burglary, larceny-theft, motor vehicle theft, and arson.
           - Violent Crime: includes offenses of rape, robbery, murder, and aggravated assault
+     7.  Created Crime Category column for the crime types mentioned in previous steps
+     8.  Extracted Crime Year from each appended file
      9.  Removed all trailing spaces with TRIM function
-     10. Named/Verified each column titles appropriately
-     11. Formatted each column data type appropriately
+     10. Named/Verified each column titles/formats appropriately
 
 - Python's Data Cleaning Steps: Wrangling Cities/Counties via webscraping method
 
-     1.  Read HTML text information from Website that contains Ohio City and County Mapping
+     1.  Read HTML text information (City/Zip Code/County) from Website
      2.  Created data frame for parsed data
-     3.  Removed Zip Code since it's out of scope of this project
+     3.  Removed Zip Code attribute since it's out of scope of this project
      4.  Added state name to dataset
-     5.  Corrected the County names for 11 cities
+     5.  Corrected the County names for 11 cities which had multiple Counties mapped
      6.  Removed null rows for blank Cities
-     7.  Created criteria for City size:
+     7.  Created criteria for City size attribute:
           - Small: < 100K
           - Medium: > 100K & < 400K
           - Large: > 400K
