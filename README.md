@@ -57,11 +57,16 @@ in different parts of the state.
 
      1.  Read HTML text information from Website that contains Ohio City and County Mapping
      2.  Created data frame for parsed data
-     3.  Removed Zip Code column since it's out of scope of this project
+     3.  Removed Zip Code since it's out of scope of this project
      4.  Added state name to dataset
-     5.  Created column city_size based on criteria using FOR LOOP and Conditional Statement**
-     6.  Use inner-join for crime datasets with City and County file to have all necessary information in one master file** 
-     8.  Export content into a .csv
+     5.  Corrected the County names for 11 cities
+     6.  Removed null rows for blank Cities
+     7.  Created criteria for City size:
+          - Small: < 100K
+          - Medium: > 100K & < 400K
+          - Large: > 400K
+     9.  Inner-joined Crime dataset with Cities and Counties
+     10. Exported joined data set into a .csv
 
 ## Data Analysis Process
 
