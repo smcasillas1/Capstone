@@ -71,7 +71,7 @@ in different parts of the state.
           - Riverside(Montgomery)
           - Dillonvale(Jefferson)
           - Lima(Allen)
-     7.  Removed null rows for blank Cities
+     7.  Removed null records for City attribute
      8.  Created criteria for City size attribute:
           - Small: < 100K
           - Medium: > 100K & < 400K
