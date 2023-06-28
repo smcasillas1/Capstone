@@ -81,7 +81,16 @@ in different parts of the state.
 
 ## Data Analysis Process
 
+- Has your data been properly formatted?
+- How should you organize your data to perform analysis on it?
+- What trends or relationships did you find in the data?
+- What surprises did you discover in the data?
+- How will these insights help answer your business questions?
+
+
+
 ## Visualize Data / Share Insights
+
 
 
 https://www.figma.com/file/oAWaQIYqk64otVDit2BzyF/Capstone-Figma---Sam?node-id=0%3A1&t=rEcEIa6S8iJeYw5q-1
