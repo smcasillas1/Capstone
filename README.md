@@ -82,13 +82,15 @@ in different parts of the state.
 ## Data Analysis Process
 
 - Has your data been properly formatted?
-      -  Yes, I've properly formatted each of the variables.
+     1.  Yes, I've properly formatted each variable within both datasets.
 - How should you organize your data to perform analysis on it?
-      -  I have joined both the crime dataset and city/county files to understand how
-  crime has occurred in each city within Ohio.
+     1.  I have joined the crime dataset and city/county files to understand how crime has occurred in each city/county within Ohio.
 - What trends or relationships did you find in the data?
-     1.  Read HTML text information (City/Zip Code/County) from Website
+     1.  During COVID, Property related crimes saw a downward trend and Violent related crimes saw an upward trend.
+     2.  
 - What surprises did you discover in the data?
+     1.   I was surprised to see that Larceny is the leading crime throughout the state of Ohio.
+     2.   I was also surprised to see that Aggravated Assualts and Motor Vehicle Theft were the types of crimes that expereinced upticks while others remained flat or saw declines.
 - How will these insights help answer your business questions?
 
 
