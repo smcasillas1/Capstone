@@ -93,7 +93,7 @@ in different parts of the state.
      1.   I was surprised to see that Larceny is the leading crime throughout the state of Ohio.
      2.   I was also surprised to see that Aggravated Assualts was the only crime type that expereinced consistent upticks in 4 of the 5 years analyzed.
 - How will these insights help answer your business questions?
-     1.   Understanding the types of crimes that occur throughout the state can be beneficial to any law enforcement agency, governmental official, and/or the general public.
+     1.   Understanding the types of crimes that occur throughout the state can be beneficial to any law enforcement agency, governmental official and/or the general public.
 
 
 ## Visualize Data / Share Insights
