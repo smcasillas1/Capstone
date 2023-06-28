@@ -82,8 +82,12 @@ in different parts of the state.
 ## Data Analysis Process
 
 - Has your data been properly formatted?
+      -  Yes, I've properly formatted each of the variables.
 - How should you organize your data to perform analysis on it?
+      -  I have joined both the crime dataset and city/county files to understand how
+        crime has occurred in each city within Ohio.
 - What trends or relationships did you find in the data?
+     1.  Read HTML text information (City/Zip Code/County) from Website
 - What surprises did you discover in the data?
 - How will these insights help answer your business questions?
 
