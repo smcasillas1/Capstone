@@ -88,11 +88,12 @@ in different parts of the state.
 - What trends or relationships did you find in the data?
      1.  During COVID, Property related crimes saw a downward trends and Violent related crimes saw an uptick.
      2.  The Top 5 cities that had the highest concentration of crime were Cleveland, Columbus, Cincinnati, Toledo and Akron.
+     3.  Based on the population ranges I established, Larceny is the leading crime type even when factoring size of the city.
 - What surprises did you discover in the data?
      1.   I was surprised to see that Larceny is the leading crime throughout the state of Ohio.
-     2.   I was also surprised to see that Aggravated Assualts was the only crime type that expereinced consistent upticks 4 of the 5 years analyzed.
+     2.   I was also surprised to see that Aggravated Assualts was the only crime type that expereinced consistent upticks in 4 of the 5 years analyzed.
 - How will these insights help answer your business questions?
-
+     1.   Understanding the types of crimes that occur throughout the state can be beneficial to any law enforcement agency, governmental official, and/or the general public.
 
 
 ## Visualize Data / Share Insights
