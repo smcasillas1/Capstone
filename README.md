@@ -86,7 +86,7 @@ in different parts of the state.
 - How should you organize your data to perform analysis on it?
      1.  I have joined the crime dataset and city/county files to understand how crime has occurred in each city/county within Ohio.
 - What trends or relationships did you find in the data?
-     1.  During COVID, Property related crimes saw a downward trend and Violent related crimes saw an upward trend.
+     1.  During COVID, Property related crimes saw a downward trends and Violent related crimes saw an uptick.
      2.  The Top 5 cities that had the highest concentration of crime were Cleveland, Columbus, Cincinnati, Toledo and Akron.
 - What surprises did you discover in the data?
      1.   I was surprised to see that Larceny is the leading crime throughout the state of Ohio.
