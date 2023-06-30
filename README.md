@@ -85,14 +85,14 @@ In this step, I will discuss my data wrangling process used in both Excel and Py
 
 In this step, I will discuss steps taken to analyze my data and gain the necessary insights to satisfy this project's requirements.
 
-I've properly formatted each variable within both datasets which will allow me to perform calculations, grouping, and joining my datasets accordingly to gain the necessary insights that will fulfill this project's purpose.
+I've properly formatted each variable within both datasets which will allowed me to group, perform aggregations and join my datasets accordingly to understand the story my data will tell me.
 
-By performing various groupings while summing up the crime totals I was able to discover that during COVID, Property related crimes saw a downward trend and Violent related crimes saw an uptick at which the Top five crime ridden cities during the time analyzed were Cleveland, Columbus, Cincinnati, Toledo and Akron respectively. 
+By performing various groupings while summing up the crime totals I was able to discover that during COVID, Property related crimes saw a downward trend and Violent related crimes saw an uptick at which the Top five crime ridden cities during this time were Cleveland, Columbus, Cincinnati, Toledo and Akron respectively. 
 
-I was surprised to learn that Larceny remained the highest crime reported during 2017-2022; while Aggravated Assualts increased consistently 4 of the 5 years analyzed.
+I was surprised to learn that Larceny remained the highest crime reported during 2017-2022 while Aggravated Assualts increased consistently 4 of the 5 years reviewed.
 
 ## Visualize Data / Share Insights
 
-- What story does your data tell? 
+Refer to my Tableau Public pro
 
 
