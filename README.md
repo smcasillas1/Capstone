@@ -92,7 +92,8 @@ Insights gained:
 
 - Crime throughout Ohio state has shown a downward trend from 2017-2022.
 
-![OH_StateWide_Trend_20230630](https://github.com/smcasillas1/Capstone/assets/124643458/30cb3fc5-e9f6-4fe1-9909-ee0dea3efc91)
+![OH_StateWide_Trend_20230630](https://github.com/smcasillas1/Capstone/assets/124643458/494ef731-204f-4bbf-bc0d-025e73ae7cb7)
+
 
 
 
