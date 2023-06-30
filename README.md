@@ -110,12 +110,7 @@ Insights gained:
 
 ![CrimeType_Trends_20230630](https://github.com/smcasillas1/Capstone/assets/124643458/03693a4f-ac3b-40f8-848b-2d34585ebbce)
 
-
-However, I'm not that the decline was significant enough that current residents have noticed the change. Moreover, one can speculate how large of a factor COVID played in this outcome or whether our Police has proven to be more effective in deterring crime activity throughout the state.
-
-For example,  Lastly, 
-
-If I was to continue this project, I would analyze the impact COVID had on the reduction in crime as well look at if Police staffing increased throughout this time. Therefore, 
+If I was to continue this project, I would analyze the impact COVID had on the reduction in crime as well look at Police staffing levels to see if increases in staff caused the reduction.
 
 
 
