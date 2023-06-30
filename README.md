@@ -110,7 +110,7 @@ Insights gained:
 
 ![CrimeType_Trends_20230630](https://github.com/smcasillas1/Capstone/assets/124643458/03693a4f-ac3b-40f8-848b-2d34585ebbce)
 
-If I was to continue this project, I would analyze the impact COVID had on the reduction in crime as well look at Police staffing levels to see if increases in staff caused the reduction.
+If I was to continue this project, I would analyze the impact COVID had on the reduction in crime as well look at Police staffing levels to see if increases in staff caused the overall reduction.
 
 
 
