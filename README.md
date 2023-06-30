@@ -24,7 +24,7 @@ in different parts of the state.
 
 ## Prepare Datasets
 
-  - In this step I will need to determine what data is needed, identify where this data is located, and decide how I will maintain the data integrity. At which I've decided to use crime data provided by the criminal justice department listed below. Also, I will search the internet for a listing of Ohio's Cities and respective Counties.
+In this step I will need to determine what data is needed, identify where this data is located, and decide how I will maintain the data integrity. At which I've decided to use crime data provided by the criminal justice department listed below. Also, I will search the internet for a listing of Ohio's Cities and respective Counties.
       1.  Ohio's Office of Criminal Justice Services (OCJS) Website for Crime Data Files: <https://dpsoibrspext.azurewebsites.net/?handler=Search>
           - OIBRS_Crime_Data_2022
           - OIBRS_Crime_Data_2021
@@ -34,9 +34,11 @@ in different parts of the state.
           - OIBRS_Crime_Data_2017
       2. Ohio's City and County Mapping Source: <https://www.corragroup.com/ohio-county-lookup.html>
    
-- In order to maintain data integrity, I will do some data cleaning in Excel (using Power Query) and Python. Although it's not efficient to clean data in two different programs, I want to be able to showcase my level of understanding of both programs and how they can be utilize within the Process Data step of the Data Analysis process. Power Query has a feature which records the actions taken on one's dataset and Python's code is repeatable/reproducible by anyone with the same level of coding experience or more.
+In order to maintain data integrity, I will do some data cleaning in Excel (using Power Query) and Python. Although it's not efficient to clean data in two different programs, I want to be able to showcase my level of understanding of both programs and how they can be utilize within the Process Data step of the Data Analysis process. Power Query has a feature which records the actions taken on one's dataset and Python's code is repeatable/reproducible by anyone with the same level of coding experience or more.
 
 ## Process Data
+
+In this step, I will discuss my data wrangling process used in both Excel and Python for each of my data source files.
 
 - OCJS Crime datasets: Excel Data Cleaning and Merging Datasets
  
@@ -81,19 +83,13 @@ in different parts of the state.
 
 ## Data Analysis Process
 
-- Has your data been properly formatted?
-     1.  Yes, I've properly formatted each variable within both datasets.
-- How should you organize your data to perform analysis on it?
-     1.  I have joined the crime dataset and city/county files to understand how crime has occurred in each city/county within Ohio.
-- What trends or relationships did you find in the data?
-     1.  During COVID, Property related crimes saw a downward trends and Violent related crimes saw an uptick.
-     2.  The Top 5 cities that had the highest concentration of crime were Cleveland, Columbus, Cincinnati, Toledo and Akron.
-     3.  Based on the population ranges I established, Larceny is the leading crime type even when factoring size of the city.
-- What surprises did you discover in the data?
-     1.   I was surprised to see that Larceny is the leading crime throughout the state of Ohio.
-     2.   I was also surprised to see that Aggravated Assualts was the only crime type that expereinced consistent upticks in 4 of the 5 years analyzed.
-- How will these insights help answer your business questions?
-     1.   Understanding the types of crimes that occur throughout the state can be beneficial to any law enforcement agency, governmental official and/or the general public.
+In this step, I will discuss steps taken to analyze my data and gain the necessary insights which will be presented to my stakeholders.
+
+I've properly formatted each variable within both datasets which will allow me to perform calculations, grouping, and joining my datasets accordingly to gain the necessary insights that will fulfill this project's purpose.
+
+Doing so, has allowed me to realize that during COVID, Property related crimes saw a downward trend and Violent related crimes saw an uptick at which the Top five crime ridden cities being Cleveland, Columbus, Cincinnati, Toledo and Akron. 
+
+To my surprise, Larceny was the leading crime type reported during 2017 - 2022 and Aggravated Assualts was the only crime type that expereinced consistent upticks in 4 of the 5 years analyzed. Understanding the types of crimes that occur throughout the state can be beneficial to any law enforcement agency, governmental official and/or the general public who 
 
 
 ## Visualize Data / Share Insights
