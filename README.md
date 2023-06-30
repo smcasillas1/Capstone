@@ -90,6 +90,4 @@ By performing various groupings while summing up the crime totals I was able to 
 
 ## Visualize Data / Share Insights
 
-Refer to my Tableau Public pro
-
-
+For the last five years, Crime throughout Ohio state has shown a downward trend which will lead one to believe that it's alittle safer than it was in 2017. Therefore, some current residents may have noticed that the last five years have been a little bit more safer than it once was. Now one can speculate how large of a factor COVID played in this outcome or whether our Police has proven to be more effective in deterring crime activity throughout the state. Regardless, 
