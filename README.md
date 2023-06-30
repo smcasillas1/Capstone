@@ -88,9 +88,30 @@ In both Excel and Python, I've properly formatted each variable within both data
 
 ## Visualize Data / Share Insights
 
-From 2017-2022, crime throughout Ohio state has shown a downward trend which is ideal. However, I'm not that the decline was significant enough that current residents have noticed the change. Moreover, one can speculate how large of a factor COVID played in this outcome or whether our Police has proven to be more effective in deterring crime activity throughout the state.
+Insights gained:
 
-For example, Property related crimes saw a downward trend and Violent related crimes saw an uptick at which the Top five crime ridden cities during this time were Cleveland, Columbus, Cincinnati, Toledo and Akron respectively. Lastly, I was surprised to learn that Larceny remained the highest crime reported during 2017-2022 while Aggravated Assualts increased consistently 4 of the 5 years reviewed.
+- Crime throughout Ohio state has shown a downward trend from 2017-2022.
+
+
+
+
+
+
+
+
+- Property related crimes saw a downward trend and Violent related crimes saw an uptick at which the Top five crime ridden cities during this time were Cleveland, Columbus, Cincinnati, Toledo and Akron respectively.
+
+
+
+
+
+- I was surprised to learn that Larceny remained the highest crime reported during 2017-2022 while Aggravated Assualts increased consistently 4 of the 5 years reviewed.
+
+
+
+However, I'm not that the decline was significant enough that current residents have noticed the change. Moreover, one can speculate how large of a factor COVID played in this outcome or whether our Police has proven to be more effective in deterring crime activity throughout the state.
+
+For example,  Lastly, 
 
 If I was to continue this project, I would analyze the impact COVID had on the reduction in crime as well look at if Police staffing increased throughout this time. Therefore, 
 
