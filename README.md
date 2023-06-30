@@ -95,14 +95,9 @@ Insights gained:
 ![OH_StateWide_Trend_20230630](https://github.com/smcasillas1/Capstone/assets/124643458/494ef731-204f-4bbf-bc0d-025e73ae7cb7)
 
 
-
-
-
-
 - Property related crimes saw a downward trend and Violent related crimes saw an uptick at which the Top five crime ridden cities during this time were Cleveland, Columbus, Cincinnati, Toledo and Akron respectively.
 
-
-
+![CrimeCategory_20230630](https://github.com/smcasillas1/Capstone/assets/124643458/c89a08fc-29a1-4ce8-9537-51df16634178)
 
 
 - I was surprised to learn that Larceny remained the highest crime reported during 2017-2022 while Aggravated Assualts increased consistently 4 of the 5 years reviewed.
@@ -111,8 +106,6 @@ Insights gained:
 
 
 ![CrimeType_Trends_20230630](https://github.com/smcasillas1/Capstone/assets/124643458/03693a4f-ac3b-40f8-848b-2d34585ebbce)
-
-
 
 
 However, I'm not that the decline was significant enough that current residents have noticed the change. Moreover, one can speculate how large of a factor COVID played in this outcome or whether our Police has proven to be more effective in deterring crime activity throughout the state.
