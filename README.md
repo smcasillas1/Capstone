@@ -107,6 +107,12 @@ Insights gained:
 
 - I was surprised to learn that Larceny remained the highest crime reported during 2017-2022 while Aggravated Assualts increased consistently 4 of the 5 years reviewed.
 
+![CrimeType_TreeMap_20230630](https://github.com/smcasillas1/Capstone/assets/124643458/b14182e7-48b8-49fc-b3f1-cd885bbd6230)
+
+
+![CrimeType_Trends_20230630](https://github.com/smcasillas1/Capstone/assets/124643458/03693a4f-ac3b-40f8-848b-2d34585ebbce)
+
+
 
 
 However, I'm not that the decline was significant enough that current residents have noticed the change. Moreover, one can speculate how large of a factor COVID played in this outcome or whether our Police has proven to be more effective in deterring crime activity throughout the state.
