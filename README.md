@@ -40,7 +40,7 @@ In order to maintain data integrity, I will do some data cleaning in Excel (usin
 
 In this step, I will discuss my data wrangling process used in both Excel and Python for each of my data source files.
 
-- OCJS Crime datasets: Excel Data Cleaning and Merging Datasets
+- Excel: OCJS Crime datasets: Data Cleaning and Merging Files
  
      1.  Exported Crime Data from OCJS Website for years 2017-2022 onto my personal laptop
      2.  Appended each year's crime data file to one another
@@ -55,7 +55,7 @@ In this step, I will discuss my data wrangling process used in both Excel and Py
      9.  Removed all trailing spaces with TRIM function
      10. Named/Verified each column titles/formats appropriately
 
-- Python's Data Cleaning Steps: Wrangling Cities/Counties via webscraping method
+- Python: Wrangling Cities/Counties via webscraping method
 
      1.  Read HTML text information (City/Zip Code/County) from Website
      2.  Created data frame for parsed data
