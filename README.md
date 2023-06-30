@@ -83,7 +83,7 @@ In this step, I will discuss my data wrangling process used in both Excel and Py
 
 ## Data Analysis Process
 
-In this step, I will discuss steps taken to analyze my data and gain the necessary insights which will be presented to my stakeholders.
+In this step, I will discuss steps taken to analyze my data and gain the necessary insights to satisfy this project's requirements.
 
 I've properly formatted each variable within both datasets which will allow me to perform calculations, grouping, and joining my datasets accordingly to gain the necessary insights that will fulfill this project's purpose.
 
