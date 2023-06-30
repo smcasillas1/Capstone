@@ -100,6 +100,9 @@ Insights gained:
 ![CrimeCategory_20230630](https://github.com/smcasillas1/Capstone/assets/124643458/c89a08fc-29a1-4ce8-9537-51df16634178)
 
 
+![Top5_Cities_20230630](https://github.com/smcasillas1/Capstone/assets/124643458/86cef325-53f6-4dbd-bea3-b2c8822efa9c)
+
+
 - I was surprised to learn that Larceny remained the highest crime reported during 2017-2022 while Aggravated Assualts increased consistently 4 of the 5 years reviewed.
 
 ![CrimeType_TreeMap_20230630](https://github.com/smcasillas1/Capstone/assets/124643458/b14182e7-48b8-49fc-b3f1-cd885bbd6230)
