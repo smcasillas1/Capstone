@@ -84,10 +84,15 @@ In this step, I will discuss my data wrangling process used in both Excel and Py
 
 In this step, I will discuss steps taken to analyze my data and gain the necessary insights to satisfy this project's requirements.
 
-I've properly formatted each variable within both datasets which will allowed me to group, perform aggregations and join my datasets accordingly to understand the story my data will tell me.
-
-By performing various groupings while summing up the crime totals I was able to discover that during COVID, Property related crimes saw a downward trend and Violent related crimes saw an uptick at which the Top five crime ridden cities during this time were Cleveland, Columbus, Cincinnati, Toledo and Akron respectively. Lastly, I was surprised to learn that Larceny remained the highest crime reported during 2017-2022 while Aggravated Assualts increased consistently 4 of the 5 years reviewed.
+In both Excel and Python, I've properly formatted each variable within both datasets which has allowed me to group, perform aggregations and join my datasets accordingly ultimately leading to insights which will be discussed in the following step.
 
 ## Visualize Data / Share Insights
 
-For the last five years, Crime throughout Ohio state has shown a downward trend which will lead one to believe that it's alittle safer than it was in 2017. Therefore, some current residents may have noticed that the last five years have been a little bit more safer than it once was. Now one can speculate how large of a factor COVID played in this outcome or whether our Police has proven to be more effective in deterring crime activity throughout the state. Regardless, 
+From 2017-2022, crime throughout Ohio state has shown a downward trend which is ideal. However, I'm not that the decline was significant enough that current residents have noticed the change. Moreover, one can speculate how large of a factor COVID played in this outcome or whether our Police has proven to be more effective in deterring crime activity throughout the state.
+
+For example, Property related crimes saw a downward trend and Violent related crimes saw an uptick at which the Top five crime ridden cities during this time were Cleveland, Columbus, Cincinnati, Toledo and Akron respectively. Lastly, I was surprised to learn that Larceny remained the highest crime reported during 2017-2022 while Aggravated Assualts increased consistently 4 of the 5 years reviewed.
+
+If I was to continue this project, I would analyze the impact COVID had on the reduction in crime as well look at if Police staffing increased throughout this time. Therefore, 
+
+
+
