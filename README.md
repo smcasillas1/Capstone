@@ -86,9 +86,7 @@ In this step, I will discuss steps taken to analyze my data and gain the necessa
 
 I've properly formatted each variable within both datasets which will allowed me to group, perform aggregations and join my datasets accordingly to understand the story my data will tell me.
 
-By performing various groupings while summing up the crime totals I was able to discover that during COVID, Property related crimes saw a downward trend and Violent related crimes saw an uptick at which the Top five crime ridden cities during this time were Cleveland, Columbus, Cincinnati, Toledo and Akron respectively. 
-
-I was surprised to learn that Larceny remained the highest crime reported during 2017-2022 while Aggravated Assualts increased consistently 4 of the 5 years reviewed.
+By performing various groupings while summing up the crime totals I was able to discover that during COVID, Property related crimes saw a downward trend and Violent related crimes saw an uptick at which the Top five crime ridden cities during this time were Cleveland, Columbus, Cincinnati, Toledo and Akron respectively. Lastly, I was surprised to learn that Larceny remained the highest crime reported during 2017-2022 while Aggravated Assualts increased consistently 4 of the 5 years reviewed.
 
 ## Visualize Data / Share Insights
 
