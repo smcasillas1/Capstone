@@ -87,14 +87,12 @@ In this step, I will discuss steps taken to analyze my data and gain the necessa
 
 I've properly formatted each variable within both datasets which will allow me to perform calculations, grouping, and joining my datasets accordingly to gain the necessary insights that will fulfill this project's purpose.
 
-Doing so, has allowed me to realize that during COVID, Property related crimes saw a downward trend and Violent related crimes saw an uptick at which the Top five crime ridden cities being Cleveland, Columbus, Cincinnati, Toledo and Akron. 
+By performing various groupings while summing up the crime totals I was able to discover that during COVID, Property related crimes saw a downward trend and Violent related crimes saw an uptick at which the Top five crime ridden cities during the time analyzed were Cleveland, Columbus, Cincinnati, Toledo and Akron respectively. 
 
-To my surprise, Larceny was the leading crime type reported during 2017 - 2022 and Aggravated Assualts was the only crime type that expereinced consistent upticks in 4 of the 5 years analyzed. Understanding the types of crimes that occur throughout the state can be beneficial to any law enforcement agency, governmental official and/or the general public who 
-
+I was surprised to learn that Larceny remained the highest crime reported during 2017-2022; while Aggravated Assualts increased consistently 4 of the 5 years analyzed.
 
 ## Visualize Data / Share Insights
 
 - What story does your data tell? 
 
 
-https://www.figma.com/file/oAWaQIYqk64otVDit2BzyF/Capstone-Figma---Sam?node-id=0%3A1&t=rEcEIa6S8iJeYw5q-1
