@@ -32,7 +32,7 @@ in different parts of the state.
           - OIBRS_Crime_Data_2019
           - OIBRS_Crime_Data_2018
           - OIBRS_Crime_Data_2017
-      2. Ohio's City and County Mapping Source: <https://www.whereig.com/usa/zipcodes/ohio.html](https://www.corragroup.com/ohio-county-lookup.html>
+      2. Ohio's City and County Mapping Source: <https://www.corragroup.com/ohio-county-lookup.html>
    
 - In order to maintain data integrity, I will do some data cleaning in Excel (using Power Query) and Python. Although it's not efficient to clean data in two different programs, I want to be able to showcase my level of understanding of both programs and how they can be utilize within the Process Data step of the Data Analysis process. Power Query has a feature which records the actions taken on one's dataset and Python's code is repeatable/reproducible by anyone with the same level of coding experience or more.
 
