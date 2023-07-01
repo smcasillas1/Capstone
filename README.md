@@ -10,8 +10,7 @@ how safe/unsafe an area has been when deciding to move to a desired city/state.
 
 My intent with this project is to analyze the types of crime that has occurred in Ohio from 2017-2022. This project can be beneficial to current/future Ohio residents and/or government officials. Current and future residents may realize the benefits of this project when they are trying to how safety their local region is. Moreover, government officals can use this information to understand what types of laws, resources, and/or police training/staffing may be needed to deter/reduce crime activity in regions throughout the state.
 
-  - Questions I would like to answer with my analysis:
-
+Questions I would like to answer with my analysis:
       1. What are the major types of crime that occurs in Ohio by City/County?
       2. Are there certain types of crimes that are more common in small, medium, and large cities?
            - OH cities size criteria: Small: <100K, Medium: >100K & <400K, Large: >400K
