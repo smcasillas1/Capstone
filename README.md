@@ -3,7 +3,7 @@
 ## Context
 
 Often times people move because of a work requirement, have hopes of a different cost of living situation, and/or they enjoy 
-what a particular city/state entertainment scene. However, I know in my case I never truly understood 
+what a particular city/state has to offer, entertainment-wise. However, I know in my case I never truly understood 
 how safe/unsafe an area has been when deciding to move to a desired city/state.
 
 ## Purpose
